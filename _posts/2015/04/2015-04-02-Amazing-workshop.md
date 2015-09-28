@@ -1,8 +1,9 @@
 ---
 layout: post
 title:  "Amazing workshop!"
-date:   2015-04-02 10:30:00
-categories: workshops software collaborations
+date:   2015-04-02
+time:   "10:30:00"
+categories: ["workshops", "software", "collaborations"]
 ---
 
 Which better way to start my new blog than telling you about an amazing conference?

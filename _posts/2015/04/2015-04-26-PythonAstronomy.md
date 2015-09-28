@@ -1,8 +1,9 @@
 ---
 layout: post
 title:  "Python in astronomy - another amazing unconference."
-date:   2015-04-26 15:30:00
-categories: workshops software collaborations
+date:   2015-04-26
+time:   "15:30:00"
+categories: ["conference", "software", "collaborations", "python"]
 ---
 
 Last week I *participated* in what was my second unconference of the year.
