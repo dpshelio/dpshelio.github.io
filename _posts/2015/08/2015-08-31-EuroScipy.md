@@ -3,6 +3,7 @@ layout: post
 title:  "EuroSciPy 2015 - My first EuroSciPy ever!"
 date:   2015-08-31
 time:   "19:20:00"
+blog:   "true"
 categories: ["conference", "python"]
 ---
 
@@ -95,7 +96,7 @@ down. Probably we all need a bit of experience and move out from our
 sphere of confidence.
 
 
-<!--  ###twtitter feed timeline###   {% include timeline.html %} -->
+<!--  ###twtitter feed timeline###   include timeline.html  -->
 
 Next was [Ian Ozsvald][ianozsval] who talked about data cleaning for
 data mining of a [recruitment agency][elevate]. In his talk Ian showed

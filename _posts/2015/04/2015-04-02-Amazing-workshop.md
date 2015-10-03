@@ -3,6 +3,7 @@ layout: post
 title:  "Amazing workshop!"
 date:   2015-04-02
 time:   "10:30:00"
+blog:   "true"
 categories: ["workshops", "software", "collaborations"]
 ---
 

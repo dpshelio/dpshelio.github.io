@@ -3,6 +3,7 @@ layout: post
 title:  "Python in astronomy - another amazing unconference."
 date:   2015-04-26
 time:   "15:30:00"
+blog:   "true"
 categories: ["conference", "software", "collaborations", "python"]
 ---
 
