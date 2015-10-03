@@ -1,0 +1,1 @@
+convert file -resize 200x200 file_thumb.png
