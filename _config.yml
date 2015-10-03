@@ -1,3 +1,6 @@
-name: Insert name here
+name: David PS
 markdown: redcarpet
 highlighter: pygments
+permalink: /blog/:year/:month/:day/:title.html
+gems:
+- jekyll-mentions
