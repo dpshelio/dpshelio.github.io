@@ -1,0 +1,17 @@
+---
+layout: default
+---
+<h2>{{ page.title }}</h2>
+<p class="meta">{{ page.date | date_to_string }}
+categories: 
+{% for category in page.categories %}
+  <a href="/blog/categories/#{{ category}}">
+    {{ category }} &nbsp
+  </a>
+{% endfor %}
+</p>
+<div class="post">
+  <p> <img height="620" src="/{{ page.path | replace: '_posts', 'gallery/images' | replace: '.md', '.png'}}" alt="{{page.title}}"> </p>
+<!--   <img src="file.png" alt=""> -->
+{{ content }}
+</div>
