@@ -158,3 +158,38 @@ a:visited { color: #a0a; }
 .post pre.terminal code {
   background-color: #333;
 }
+
+/**
+ * TAGS
+ * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * */
+.tags {
+  list-style: none;
+  padding: 0;
+  text-align: justify; }
+
+.tags li {
+  display: inline-block;
+  margin: 0 25px 25px 0; }
+
+.tags li:last-child {
+  margin-right: 0; }
+
+.tag {
+  background: #ddd;
+  border-radius: 2px;
+  -moz-border-radius: 2px;
+  -webkit-border-radius: 2px;
+  box-shadow: 1px 1px 2px #ccc;
+  -moz-box-shadow: 1px 1px 2px #ccc;
+  -webkit-box-shadow: 1px 1px 2px #ccc;
+  color: #888;
+  padding: 2px 8px 2px 8px;
+  text-decoration: none; }
+
+.tag:visited {
+  color: #888; }
+
+.tag:hover {
+  background: #ccc;
+  color: #777; }
+
