@@ -1,0 +1,11 @@
+---
+layout: default
+---
+<h3> {{ page.title }} </h3>
+<p class="meta">{{ page.date | date_to_string }} - {{ page.date_end | date_to_string }}
+<div class="logo">  
+<a href="{{page.project_url}}"><img src="/{{ page.path | replace: '.md', '.png' }}"></a>
+</div>
+<div class="post">
+{{ content }}
+</div>

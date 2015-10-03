@@ -1,0 +1,15 @@
+---
+layout: default
+title: Projects
+---
+
+<ul class="posts">
+  {% for post in site.pages %}
+  {% if post.project == "true" %}
+  <li>
+    <a href="{{post.url}}">
+    <img height="75px" src="/{{post.path | replace: '.md', '.png'}}" alt="post.title"></a> 
+  </li>
+  {% endif %}
+   {% endfor %}
+  </ul>
