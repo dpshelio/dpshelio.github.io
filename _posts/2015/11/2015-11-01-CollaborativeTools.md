@@ -12,7 +12,7 @@ This list will be update regularly as I found new tools.
 The update date will be added at the end.
 
 If you know of other tools, please, let me know about them and
-I will add them in here.
+I will add them in here. ([Pull requests welcome](https://github.com/dpshelio/dpshelio.github.io/blob/master/_posts/2015/11/2015-11-01-CollaborativeTools.md).)
 <br></br>
 
 ## Sharing files
