@@ -31,6 +31,7 @@ I will add them in here.
     - [ShareLaTeX][sharelatex], an open source LaTeX editor that can be used on their site or installed in a personal server. Also available as [Sandstorm][sandstorm] app.
     - [\BlueLaTeX][bluelatex], another open source LaTeX editor backed by [Mozilla Science Lab][bluelatex_moz]. Needs to be installed in server.
     - [Authorea][authorea], really easy to use editor aimed for researchers to upload papers directly to some journals. You can write comments/discuss on a particular paragraph.
+    - [Cloud.sagemath][cloudsagemath], a cloud based environment which has a terminal, file system and more: a full scientific linux box in the cloud (R, Python, LaTeX etc...).
 <br></br>
 
 ## Collaborative editing documents
@@ -71,6 +72,7 @@ I will add them in here.
   - screen sharers/cast; not extrictly collaborative coding but helping others
     - [asciinema][asciinema] allows you to record your terminal as text.
     - [shellshare][shellshare] broadcasts your terminal.
+    - [recordit.co][recordit] record your screen, share as gif or video.
 <br></br>
 
 ## Communities
@@ -185,6 +187,8 @@ I will add them in here.
 [openaire]: https://www.openaire.eu/
 [figshare]: http://figshare.com/
 [sameroom]: https://sameroom.io/open-a-tube
+[cloudsagemath]: https://cloud.sagemath.com/
+[recordit]:http://recordit.co/
 
 
 <!-- http://www.nature.com/news/online-collaboration-scientists-and-the-social-network-1.15711 to read -->
