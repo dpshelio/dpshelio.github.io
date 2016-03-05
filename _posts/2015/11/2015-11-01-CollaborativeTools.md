@@ -192,3 +192,19 @@ I will add them in here. ([Pull requests welcome](https://github.com/dpshelio/dp
 
 
 <!-- http://www.nature.com/news/online-collaboration-scientists-and-the-social-network-1.15711 to read -->
+<!-- mind  mamps: https://www.mindmup.com/#m:new -->
+<!-- spideroak ; encrypted dropbox -->
+<!-- open peerreview biologydirect for 10 years! -->
+<!-- crowd founding: https://walacea.com/ -->
+<!-- outreach of science
+   - scigist
+   - bitesize
+   ** matching similar journals contributions:  tool from the library through a heathmap
+   - news: https://hackpad.com/MOZFEST-Create-your-own-interactive-newsgames-GB8Psj3kjtQ
+   https://101innovations.wordpress.com/
+   Teaching review: https://edthena.com/
+   http://swellrt.org/ - text pads no centralised (from http://p2pvalue.eu/ )
+   figshare teams - share
+
+mybinder.org as to share notebooks.
+   -->
