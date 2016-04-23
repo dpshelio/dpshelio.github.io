@@ -295,7 +295,7 @@ flares obtained in the whole story of the catalogue.
 
 The posibilities are almost endless, and this is just querying a single table,
 but you could construct queries from multiple of them at once. Check
-[my list of handy queries](./2016-04-23-handy-helio-sql-queries.html) to learn more about it.
+[my list of handy queries](/blog/2016/04/23/handy-helio-sql-queries.html) to learn more about it.
 
 ## Summary
 
