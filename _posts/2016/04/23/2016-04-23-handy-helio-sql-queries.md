@@ -156,6 +156,24 @@ The ILS provides information about the location of planets and some spacecraft
 in the heliosphere. This is very useful to find, for example when STEREO A was
 at certain degrees away from Earth or other spacecraft.
 
+{% highlight sql %}
+SELECT t1.time, t1.long_hci, t2.time, t2.long_hci,
+       ABS(t1.long_hci-t2.long_hci)
+   FROM trajectories AS t1, trajectories AS t2
+     WHERE t1.time >= '2006-10-01' AND t1.time <= '2015-01-01' AND
+           t2.time >= '2006-10-01' AND t2.time <= '2015-10-01' AND
+           t1.time = t2.time AND
+           t1.target_obj = 'stereob' AND t2.target_obj = 'earth' AND
+           IF(ABS(t1.long_hci - t2.long_hci) > 180,
+              360 - ABS(t1.long_hci - t2.long_hci) >= 118,
+              ABS(t1.long_hci - t2.long_hci) >= 118) AND
+           IF(ABS(t1.long_hci - t2.long_hci) > 180,
+              360 - ABS(t1.long_hci - t2.long_hci) <= 122,
+              ABS(t1.long_hci - t2.long_hci) <= 122)
+     ORDER BY t1.time
+{% endhighlight %}
+
+
 ## [One value per month per orbit](http://helio-vo.eu/services/interfaces/helio-ils_soap8.php?qtype=0&sql=SELECT+MONTH%28time%29+AS+month%2C+time%2C+target_obj%2Cdate%28time%29+as+time+from+trajectories+where+time+between+%272002-10-28%27+and+%272003-11-03%27+AND+%28target_obj%3D%27Earth%27%29+GROUP+BY+MONTH%28Time%29&format=html&process=1)
 
 *Don't remember what I was trying to do with this*
