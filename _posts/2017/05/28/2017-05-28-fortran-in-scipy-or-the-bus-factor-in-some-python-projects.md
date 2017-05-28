@@ -55,7 +55,8 @@ other python communities I am familiar with so to get a better picture.
 
 ### How many files has only been touched by one person.
 
-Starting with the four main projects, we found the following:
+This pie charts are showing the percentage of files that has only been
+contributed by one author. Starting with the four main projects, we found the following:
 
 <!-- cp {sci,num,astro,sun}py/*_total.png . -->
 <!-- montage *_total.png -tile x1 -shadow -geometry +1+1 -background none totals.png -->
@@ -70,6 +71,10 @@ For the NumFOCUS python projects ([IPython][ipython], [matplotlib][mpl], [pandas
 and the final four ([django][django], [Scikit-image][skimage], [Scikit-learn][sklearn] and
 [SQLAlchemy][sqlalchemy]):
 <a href="/gallery/images/2017/05/28/2017-05-28-projects_others.png"><img width="625px" alt="files 1 contributor" src="/gallery/images/2017/05/28/2017-05-28-projects_others.png"></a>
+
+It's satisfying to find that most of the projects have less than 25% of the files
+only controlled by one person. But we should all aim to have a better cover as 
+matplotlib.
 
 ### Are they active?
 
@@ -117,6 +122,7 @@ analyse the content of these *critic* files by language, purpose (are they
 code or tests?), etc. 
 
 If we want to go into more detail we could look at:
+ - the lines of code instead of the number of files may be a better indicative,
  - the activity of these contributors to the project (are they still active?), 
  - the files with other contributors where only formatting changes have be applied (I would have
 no idea how to test for that),
