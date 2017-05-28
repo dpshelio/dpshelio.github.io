@@ -1,0 +1,13 @@
+|                               filename |            author | commits |  last date |
+|               pymc3/tests/test_memo.py |     Thomas Wiecki |       2 | 2016-09-06 |
+|                         pymc3/gp/gp.py |  Chris Fonnesbeck |       1 | 2017-02-21 |
+|                       pymc3/gp/mean.py |  Chris Fonnesbeck |       1 | 2017-02-21 |
+| pymc3/step_methods/elliptical_slice.py | Jonathan Friedman |       2 | 2017-02-23 |
+|        pymc3/examples/censored_data.py |         domenzain |       1 | 2017-03-07 |
+|               pymc3/tests/test_util.py |             Colin |       1 | 2017-05-03 |
+|             pymc3/variational/stein.py |    Maxim Kochurov |       5 | 2017-05-17 |
+|            pymc3/tests/test_updates.py |    Maxim Kochurov |       2 | 2017-05-21 |
+|                    pymc3/exceptions.py |         aseyboldt |       1 | 2017-05-24 |
+|         pymc3/variational/operators.py |    Maxim Kochurov |      11 | 2017-05-26 |
+|    pymc3/variational/test_functions.py |    Maxim Kochurov |       5 | 2017-05-26 |
+|         pymc3/variational/callbacks.py |    Maxim Kochurov |      11 | 2017-05-28 |

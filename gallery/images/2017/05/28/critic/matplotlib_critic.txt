@@ -1,0 +1,16 @@
+|                                             filename |                   author | commits |  last date |
+|                            lib/matplotlib/tri/_tri.h |               Ian Thomas |       8 | 2015-05-19 |
+|          lib/mpl_toolkits/axisartist/axes_divider.py |   Jens Hedegaard Nielsen |       1 | 2015-12-29 |
+|             lib/mpl_toolkits/axisartist/axes_grid.py |   Jens Hedegaard Nielsen |       1 | 2015-12-29 |
+|              lib/mpl_toolkits/axisartist/axes_rgb.py |   Jens Hedegaard Nielsen |       1 | 2015-12-29 |
+|         lib/mpl_toolkits/axisartist/parasite_axes.py |   Jens Hedegaard Nielsen |       1 | 2015-12-29 |
+|                   lib/matplotlib/cbook/_backports.py |          Nelle Varoquaux |       1 | 2017-01-14 |
+|                  lib/matplotlib/cbook/deprecation.py |          Nelle Varoquaux |       1 | 2017-01-14 |
+|           lib/matplotlib/testing/_nose/exceptions.py |          Nelle Varoquaux |       1 | 2017-01-25 |
+| lib/matplotlib/testing/_nose/plugins/knownfailure.py |          Nelle Varoquaux |       1 | 2017-01-25 |
+|    lib/matplotlib/testing/_nose/plugins/performgc.py |          Nelle Varoquaux |       1 | 2017-01-25 |
+|           lib/matplotlib/sphinxext/tests/conftest.py | Elliott Sales de Andrade |       4 | 2017-03-26 |
+|                     lib/matplotlib/tests/conftest.py | Elliott Sales de Andrade |       5 | 2017-03-26 |
+|                   lib/mpl_toolkits/tests/conftest.py | Elliott Sales de Andrade |       4 | 2017-03-26 |
+|                   lib/matplotlib/testing/conftest.py | Elliott Sales de Andrade |       5 | 2017-04-15 |
+|    lib/matplotlib/tests/test_backends_interactive.py |               Antony Lee |       1 | 2017-05-22 |

@@ -1,0 +1,16 @@
+|                                                               filename |           author | commits |  last date |
+|                                  django/contrib/sessions/exceptions.py |   Preston Holmes |       1 | 2013-05-15 |
+|                                   django/contrib/flatpages/sitemaps.py |    Berker Peksag |       1 | 2014-12-08 |
+|                                   django/db/backends/dummy/features.py |   Andrei Kulakov |       1 | 2015-03-12 |
+|                                                     django/__main__.py |     Ryan Hiebert |       1 | 2015-04-30 |
+|                        django/contrib/gis/db/backends/postgis/const.py |  Daniel Wiesmann |       1 | 2015-06-19 |
+|                     django/contrib/gis/db/backends/postgis/pgraster.py |  Daniel Wiesmann |       1 | 2015-06-19 |
+|                                 django/db/backends/postgresql/utils.py |      Caio Ariede |       1 | 2015-08-05 |
+|                                         django/core/checks/database.py |     Claude Paroz |       1 | 2016-03-19 |
+|                                    django/conf/locale/es_CO/formats.py |     Claude Paroz |       2 | 2016-11-19 |
+|                                       django/conf/locale/gd/formats.py |     Claude Paroz |       2 | 2016-11-19 |
+|                                   django/contrib/staticfiles/checks.py |   Ling-Xiao Yang |       1 | 2017-01-02 |
+| django/contrib/auth/migrations/0009_alter_user_last_name_max_length.py |     Thom Wiggers |       1 | 2017-01-22 |
+|                                      django/contrib/auth/validators.py |     Claude Paroz |       3 | 2017-01-26 |
+|                               django/contrib/postgres/fields/citext.py |      Mads Jensen |       2 | 2017-02-11 |
+|                                django/db/backends/oracle/validation.py | Mariusz Felisiak |       1 | 2017-05-23 |

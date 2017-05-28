@@ -1,0 +1,69 @@
+|                                                   filename |            author | commits |  last date |
+|                  sklearn/externals/test_externals_setup.py |  Fabian Pedregosa |       3 | 2011-09-02 |
+|                           sklearn/src/cblas/ATL_drefcopy.c |  Fabian Pedregosa |       3 | 2011-09-02 |
+|                            sklearn/src/cblas/ATL_drefrot.c |  Fabian Pedregosa |       3 | 2011-09-02 |
+|                           sklearn/src/cblas/ATL_drefrotg.c |  Fabian Pedregosa |       3 | 2011-09-02 |
+|                           sklearn/src/cblas/ATL_srefcopy.c |  Fabian Pedregosa |       3 | 2011-09-02 |
+|                            sklearn/src/cblas/ATL_srefrot.c |  Fabian Pedregosa |       3 | 2011-09-02 |
+|                           sklearn/src/cblas/ATL_srefrotg.c |  Fabian Pedregosa |       3 | 2011-09-02 |
+|                              sklearn/src/cblas/atlas_aux.h |  Fabian Pedregosa |       3 | 2011-09-02 |
+|                         sklearn/src/cblas/atlas_dsysinfo.h |  Fabian Pedregosa |       3 | 2011-09-02 |
+|                             sklearn/src/cblas/atlas_enum.h |  Fabian Pedregosa |       3 | 2011-09-02 |
+|                           sklearn/src/cblas/atlas_level1.h |  Fabian Pedregosa |       3 | 2011-09-02 |
+|                             sklearn/src/cblas/atlas_misc.h |  Fabian Pedregosa |       3 | 2011-09-02 |
+|                        sklearn/src/cblas/atlas_refalias1.h |  Fabian Pedregosa |       3 | 2011-09-02 |
+|                        sklearn/src/cblas/atlas_refalias2.h |  Fabian Pedregosa |       3 | 2011-09-02 |
+|                        sklearn/src/cblas/atlas_reflevel1.h |  Fabian Pedregosa |       3 | 2011-09-02 |
+|                        sklearn/src/cblas/atlas_reflevel2.h |  Fabian Pedregosa |       3 | 2011-09-02 |
+|                          sklearn/src/cblas/atlas_reflvl2.h |  Fabian Pedregosa |       3 | 2011-09-02 |
+|                          sklearn/src/cblas/atlas_refmisc.h |  Fabian Pedregosa |       3 | 2011-09-02 |
+|                         sklearn/src/cblas/atlas_ssysinfo.h |  Fabian Pedregosa |       3 | 2011-09-02 |
+|                             sklearn/src/cblas/atlas_type.h |  Fabian Pedregosa |       3 | 2011-09-02 |
+|                                  sklearn/src/cblas/cblas.h |  Fabian Pedregosa |       3 | 2011-09-02 |
+|                            sklearn/src/cblas/cblas_daxpy.c |  Fabian Pedregosa |       3 | 2011-09-02 |
+|                            sklearn/src/cblas/cblas_dcopy.c |  Fabian Pedregosa |       3 | 2011-09-02 |
+|                             sklearn/src/cblas/cblas_ddot.c |  Fabian Pedregosa |       3 | 2011-09-02 |
+|                            sklearn/src/cblas/cblas_dnrm2.c |  Fabian Pedregosa |       3 | 2011-09-02 |
+|                             sklearn/src/cblas/cblas_drot.c |  Fabian Pedregosa |       3 | 2011-09-02 |
+|                            sklearn/src/cblas/cblas_drotg.c |  Fabian Pedregosa |       3 | 2011-09-02 |
+|                            sklearn/src/cblas/cblas_dscal.c |  Fabian Pedregosa |       3 | 2011-09-02 |
+|                            sklearn/src/cblas/cblas_scopy.c |  Fabian Pedregosa |       3 | 2011-09-02 |
+|                             sklearn/src/cblas/cblas_srot.c |  Fabian Pedregosa |       3 | 2011-09-02 |
+|                            sklearn/src/cblas/cblas_srotg.c |  Fabian Pedregosa |       3 | 2011-09-02 |
+|                           sklearn/src/cblas/cblas_xerbla.c |  Fabian Pedregosa |       3 | 2011-09-02 |
+|                     sklearn/__check_build/_check_build.pyx |    Gael Varoquaux |       1 | 2012-05-09 |
+|                           sklearn/src/cblas/ATL_drefgemv.c |  Fabian Pedregosa |       1 | 2012-08-03 |
+|                          sklearn/src/cblas/ATL_drefgemvN.c |  Fabian Pedregosa |       1 | 2012-08-03 |
+|                          sklearn/src/cblas/ATL_drefgemvT.c |  Fabian Pedregosa |       1 | 2012-08-03 |
+|                            sklearn/src/cblas/cblas_dgemv.c |  Fabian Pedregosa |       1 | 2012-08-03 |
+|                            sklearn/src/cblas/ATL_drefger.c |  Fabian Pedregosa |       1 | 2012-08-05 |
+|                             sklearn/src/cblas/cblas_dger.c |  Fabian Pedregosa |       1 | 2012-08-05 |
+|                        sklearn/utils/src/cholesky_delete.h |     Lars Buitinck |       1 | 2013-01-03 |
+|                                  sklearn/utils/src/gamma.h |     Lars Buitinck |       1 | 2013-01-31 |
+|                 sklearn/utils/sparsetools/_graph_tools.pyx |     Robert Layton |       1 | 2013-06-06 |
+|                             sklearn/neighbors/typedefs.pyx |   Jake Vanderplas |       3 | 2013-07-26 |
+|                                sklearn/utils/fast_dict.pyx |    Gael Varoquaux |       7 | 2014-02-17 |
+|                           sklearn/src/cblas/ATL_drefasum.c |     Lars Buitinck |       1 | 2014-03-10 |
+|                    sklearn/linear_model/sgd_fast_helpers.h |    Olivier Grisel |       1 | 2014-08-31 |
+|                           sklearn/src/cblas/ATL_srefnrm2.c |   Andreas Mueller |       1 | 2015-03-12 |
+|                            sklearn/src/cblas/cblas_snrm2.c |   Andreas Mueller |       1 | 2015-03-12 |
+|                        sklearn/datasets/tests/test_rcv1.py |            TomDLT |       3 | 2015-07-21 |
+| sklearn/neural_network/tests/test_stochastic_optimizers.py |        Glenn Qian |       1 | 2015-08-28 |
+|                             sklearn/src/cblas/cblas_sdot.c |               Yen |       1 | 2016-06-21 |
+|       sklearn/externals/joblib/_multiprocessing_helpers.py |    Olivier Grisel |       2 | 2016-07-17 |
+|                           sklearn/src/cblas/ATL_dsrefdot.c |               Yen |       1 | 2016-08-26 |
+|                           sklearn/src/cblas/ATL_srefasum.c |               Yen |       1 | 2016-08-26 |
+|                            sklearn/src/cblas/cblas_sasum.c |               Yen |       1 | 2016-08-26 |
+|                            sklearn/src/cblas/cblas_saxpy.c |               Yen |       1 | 2016-08-26 |
+|                        sklearn/neighbors/tests/test_lof.py |      Nicolas Goix |       1 | 2016-10-25 |
+|                    sklearn/model_selection/tests/common.py |         Raghav RV |       1 | 2016-10-30 |
+|                           sklearn/src/cblas/ATL_srefgemv.c | Thierry Guillemot |       1 | 2016-12-28 |
+|                          sklearn/src/cblas/ATL_srefgemvN.c | Thierry Guillemot |       1 | 2016-12-28 |
+|                          sklearn/src/cblas/ATL_srefgemvT.c | Thierry Guillemot |       1 | 2016-12-28 |
+|                            sklearn/src/cblas/ATL_srefger.c | Thierry Guillemot |       1 | 2016-12-28 |
+|                         sklearn/src/cblas/atlas_ptalias1.h | Thierry Guillemot |       1 | 2016-12-28 |
+|                         sklearn/src/cblas/atlas_ptalias2.h | Thierry Guillemot |       1 | 2016-12-28 |
+|                            sklearn/src/cblas/cblas_sgemv.c | Thierry Guillemot |       1 | 2016-12-28 |
+|                             sklearn/src/cblas/cblas_sger.c | Thierry Guillemot |       1 | 2016-12-28 |
+|                            sklearn/src/cblas/cblas_sscal.c | Thierry Guillemot |       1 | 2016-12-28 |
+|                      sklearn/externals/joblib/backports.py |       Loïc Estève |       1 | 2017-03-07 |

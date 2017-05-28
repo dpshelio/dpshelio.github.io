@@ -1,0 +1,38 @@
+|                                       filename |               author | commits |  last date |
+|        skimage/io/_plugins/simpleitk_plugin.py |       Matt McCormick |       1 | 2012-07-22 |
+|                    skimage/color/rgb_colors.py |            Tony S Yu |       1 | 2013-06-19 |
+|        skimage/util/tests/test_regular_grid.py |  Juan Nunez-Iglesias |       3 | 2013-07-13 |
+|            skimage/color/tests/test_delta_e.py |           Matt Terry |       5 | 2013-08-15 |
+|                         skimage/draw/draw3d.py |    Josh Warner (Mac) |       4 | 2013-10-13 |
+|          skimage/measure/_find_contours_cy.pyx | Johannes Schönberger |       1 | 2013-11-03 |
+|                     skimage/io/_image_stack.py |            Tony S Yu |       1 | 2013-11-18 |
+|            skimage/graph/tests/test_connect.py |          Almar Klein |       1 | 2013-12-15 |
+|         skimage/graph/tests/test_anisotropy.py |          Almar Klein |       2 | 2014-01-06 |
+|          skimage/measure/tests/test_profile.py |  Juan Nunez-Iglesias |       1 | 2014-01-29 |
+|             skimage/restoration/_unwrap_1d.pyx | Johannes Schönberger |       1 | 2014-03-13 |
+|           skimage/measure/tests/test_pnpoly.py |  Stefan van der Walt |       1 | 2014-08-31 |
+|         skimage/_shared/tests/test_geometry.py |  Stefan van der Walt |       1 | 2014-09-29 |
+|                skimage/measure/_moments_cy.pyx | Johannes Schönberger |       1 | 2014-11-26 |
+|           skimage/filters/tests/test_median.py |           emmanuelle |       1 | 2014-11-30 |
+|              skimage/future/graph/_ncut_cy.pyx |  Juan Nunez-Iglesias |       1 | 2015-02-03 |
+|            skimage/future/graph/graph_merge.py |  Juan Nunez-Iglesias |       1 | 2015-02-03 |
+|                        skimage/future/setup.py |  Juan Nunez-Iglesias |       1 | 2015-02-03 |
+|                   skimage/_shared/_tempfile.py |  Juan Nunez-Iglesias |       1 | 2015-03-31 |
+|                   skimage/_shared/geometry.pyx | Johannes Schönberger |       7 | 2015-05-20 |
+|                   skimage/feature/brief_cy.pyx | Johannes Schönberger |       2 | 2015-05-20 |
+|   skimage/transform/tests/test_seam_carving.py |    Vighnesh Birodkar |       6 | 2015-06-11 |
+|                 skimage/viewer/utils/canvas.py |     Steven Silvester |       1 | 2015-06-20 |
+|                    skimage/measure/_moments.py | Johannes Schönberger |       3 | 2015-08-19 |
+|          skimage/io/_plugins/imageio_plugin.py |     Steven Silvester |       1 | 2015-09-04 |
+|          skimage/morphology/_skeletonize_3d.py |      Evgeni Burovski |       9 | 2016-02-07 |
+|          skimage/measure/mc_meta/LookUpTable.h |          Almar Klein |       1 | 2016-04-20 |
+|           skimage/util/tests/test_arraycrop.py |        Joshua Warner |       1 | 2016-07-17 |
+|                      skimage/util/arraycrop.py |        Joshua Warner |       3 | 2016-07-18 |
+| skimage/measure/_marching_cubes_classic_cy.pyx |          Almar Klein |       1 | 2016-07-25 |
+|                        skimage/util/_invert.py |    François Boulogne |       2 | 2016-08-02 |
+|              skimage/util/tests/test_invert.py |    François Boulogne |       4 | 2016-08-02 |
+|                       skimage/filters/setup.py |  Stefan van der Walt |       2 | 2016-10-03 |
+|                     skimage/measure/entropy.py |    François Boulogne |       1 | 2016-12-25 |
+|          skimage/measure/tests/test_entropy.py |    François Boulogne |       1 | 2016-12-25 |
+|       skimage/morphology/tests/test_extrema.py |               walter |       1 | 2017-01-13 |
+|   skimage/segmentation/tests/test_chan_vese.py |             GGoussar |       1 | 2017-04-13 |

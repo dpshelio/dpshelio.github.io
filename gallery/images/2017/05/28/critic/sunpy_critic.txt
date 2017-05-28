@@ -1,0 +1,32 @@
+|                                                    filename |          author | commits |  last date |
+|                              sunpy/io/src/ana/anacompress.h |       Nabobalis |       1 | 2013-03-01 |
+|                            sunpy/io/src/ana/anadecompress.c |       Nabobalis |       1 | 2013-03-01 |
+|                            sunpy/io/src/ana/anadecompress.h |       Nabobalis |       1 | 2013-03-01 |
+|                                    sunpy/io/src/ana/anarw.c |       Nabobalis |       1 | 2013-03-01 |
+|                                    sunpy/io/src/ana/anarw.h |       Nabobalis |       1 | 2013-03-01 |
+|                                   sunpy/io/src/ana/testrw.c |       Nabobalis |       1 | 2013-03-01 |
+|                        sunpy/database/tests/test_caching.py |  Stuart Mumford |       1 | 2014-01-13 |
+|                                  sunpy/io/tests/test_ana.py |  Stuart Mumford |       5 | 2014-07-16 |
+|                           sunpy/tests/tests/test_helpers.py |  Stuart Mumford |       1 | 2015-01-07 |
+|                                 sunpy/extern/bundled/six.py |    Erik M. Bray |       1 | 2015-06-16 |
+|                      sunpy/lightcurve/table_to_dataframe.py |        ankitkmr |       2 | 2015-08-29 |
+|             sunpy/coordinates/tests/test_frameattributes.py |  Stuart Mumford |       3 | 2016-01-16 |
+|                      sunpy/physics/differential_rotation.py | Igor Babuschkin |       1 | 2016-02-05 |
+|                             sunpy/physics/solar_rotation.py | Igor Babuschkin |       1 | 2016-02-05 |
+|           sunpy/physics/tests/test_differential_rotation.py | Igor Babuschkin |       1 | 2016-02-05 |
+| sunpy/coordinates/tests/test_transformations_comparision.py |  Stuart Mumford |       2 | 2016-03-11 |
+|                   sunpy/coordinates/tests/test_wcs_utils.py |  Stuart Mumford |       6 | 2016-04-18 |
+|                           sunpy/sun/tests/test_constants.py |  Steven Christe |       4 | 2016-05-11 |
+|             sunpy/coordinates/tests/test_transformations.py |  Stuart Mumford |       4 | 2016-06-21 |
+|                                 sunpy/net/tests/test_hek.py |  Stuart Mumford |       3 | 2016-09-19 |
+|                              sunpy/tests/tests/test_main.py |  Stuart Mumford |      10 | 2016-09-19 |
+|                sunpy/net/dataretriever/tests/test_client.py |  Stuart Mumford |       1 | 2016-10-14 |
+|                                 sunpy/io/tests/test_genx.py |        dpshelio |       1 | 2016-10-27 |
+|                                    sunpy/io/special/genx.py |        dpshelio |       5 | 2016-10-30 |
+|                sunpy/coordinates/tests/test_offset_frame.py |  Stuart Mumford |       3 | 2016-11-19 |
+|                                sunpy/net/tests/test_attr.py |  Stuart Mumford |       3 | 2016-11-19 |
+|                               sunpy/net/tests/strategies.py |  Stuart Mumford |       1 | 2017-01-04 |
+|                              sunpy/coordinates/wcs_utils.py |  Stuart Mumford |      12 | 2017-01-12 |
+|                                sunpy/net/tests/test_fido.py |  Stuart Mumford |       4 | 2017-01-25 |
+|                                   sunpy/net/fido_factory.py |  Stuart Mumford |       8 | 2017-03-08 |
+|                        sunpy/coordinates/transformations.py |  Stuart Mumford |      15 | 2017-04-05 |

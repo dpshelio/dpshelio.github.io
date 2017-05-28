@@ -1,0 +1,37 @@
+|                                                filename |          author | commits |  last date |
+|                                    quantecon/ce_util.py |    Spencer Lyon |       2 | 2014-07-14 |
+|                  quantecon/tests/test_rank_nullspace.py |           chase |       1 | 2014-07-21 |
+|                            quantecon/tests/test_ecdf.py |    Spencer Lyon |       2 | 2014-08-01 |
+|                         quantecon/tests/test_estspec.py |    Spencer Lyon |       2 | 2014-08-01 |
+|                            quantecon/tests/test_quad.py |    Spencer Lyon |       2 | 2014-08-01 |
+|                             quantecon/tests/test_lae.py |    Spencer Lyon |       1 | 2014-08-03 |
+|                         quantecon/tests/test_quadsum.py |           chase |       3 | 2014-08-04 |
+|                        quantecon/tests/test_robustlq.py |           chase |       2 | 2014-08-06 |
+|                                 quantecon/tests/util.py |    Spencer Lyon |       7 | 2014-08-07 |
+|                        quantecon/tests/test_lyapunov.py |           chase |       1 | 2014-08-11 |
+|                            quantecon/tests/test_arma.py | John Stachurski |       1 | 2014-08-20 |
+|                          quantecon/tests/test_lqnash.py |           chase |       3 | 2014-08-28 |
+|                             quantecon/tests/test_ivp.py |   David R. Pugh |       8 | 2014-09-09 |
+|                              quantecon/distributions.py | John Stachurski |       2 | 2014-11-04 |
+|                       quantecon/tests/test_gridtools.py |    Pablo Winant |       1 | 2015-05-07 |
+|                      quantecon/util/tests/test_array.py |   Matthew McKay |       1 | 2015-05-30 |
+|                quantecon/markov/tests/test_gth_solve.py |   Matthew McKay |       1 | 2015-08-05 |
+|                       quantecon/util/common_messages.py |   Matthew McKay |       1 | 2015-08-25 |
+|                     quantecon/util/tests/test_timing.py |   Matthew McKay |       1 | 2015-08-25 |
+|                                quantecon/util/timing.py |   Matthew McKay |       1 | 2015-08-25 |
+|                      quantecon/markov/tests/test_ddp.py |   Daisuke Oyama |       4 | 2016-04-07 |
+|                     quantecon/tests/test_graph_tools.py |   Daisuke Oyama |       7 | 2016-04-11 |
+|                quantecon/markov/tests/test_utilities.py |   Daisuke Oyama |       1 | 2016-05-19 |
+|                           quantecon/markov/utilities.py |   Daisuke Oyama |       1 | 2016-05-19 |
+| quantecon/game_theory/tests/test_support_enumeration.py |   Daisuke Oyama |       1 | 2016-09-22 |
+|    quantecon/game_theory/tests/test_normal_form_game.py |   Daisuke Oyama |       5 | 2016-11-14 |
+|              quantecon/game_theory/tests/test_random.py |   Daisuke Oyama |       1 | 2016-11-14 |
+|     quantecon/game_theory/tests/test_mclennan_tourky.py |   Daisuke Oyama |       1 | 2016-11-16 |
+|        quantecon/game_theory/tests/test_lemke_howson.py |   Daisuke Oyama |       4 | 2016-11-17 |
+|                      quantecon/game_theory/utilities.py |   Daisuke Oyama |       1 | 2016-11-17 |
+|                      quantecon/game_theory/pure_nash.py |       Zejin Shi |       1 | 2016-11-25 |
+|           quantecon/game_theory/tests/test_pure_nash.py |       Zejin Shi |       1 | 2016-11-25 |
+|                   quantecon/game_theory/lemke_howson.py |   Daisuke Oyama |       6 | 2017-02-23 |
+|                             quantecon/util/notebooks.py |      Matt McKay |       7 | 2017-02-23 |
+|                  quantecon/util/tests/test_notebooks.py |      Matt McKay |       4 | 2017-02-23 |
+|            quantecon/game_theory/support_enumeration.py |   Daisuke Oyama |       5 | 2017-04-02 |

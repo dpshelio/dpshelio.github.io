@@ -1,0 +1,77 @@
+|                                                              filename |               author | commits |  last date |
+|                                astropy/io/fits/tests/cfitsio_verify.c |            Erik Bray |       2 | 2011-11-02 |
+|                                  astropy/utils/xml/src/expat_config.h |   Michael Droettboom |       1 | 2011-12-02 |
+|                                astropy/utils/compat/futures/thread.py |         Pey Lian Lim |       2 | 2013-01-15 |
+|                         astropy/wcs/include/astropy_wcs/astropy_wcs.h |   Michael Droettboom |       1 | 2013-10-04 |
+|                     astropy/wcs/include/astropy_wcs/distortion_wrap.h |   Michael Droettboom |       1 | 2013-10-04 |
+|                               astropy/wcs/include/astropy_wcs/isnan.h |   Michael Droettboom |       1 | 2013-10-04 |
+|                                 astropy/wcs/include/astropy_wcs/sip.h |   Michael Droettboom |       1 | 2013-10-04 |
+|                            astropy/wcs/include/astropy_wcs/sip_wrap.h |   Michael Droettboom |       1 | 2013-10-04 |
+|                      astropy/wcs/include/astropy_wcs/str_list_proxy.h |   Michael Droettboom |       1 | 2013-10-04 |
+|                     astropy/wcs/include/astropy_wcs/unit_list_proxy.h |   Michael Droettboom |       1 | 2013-10-04 |
+|                                astropy/wcs/include/astropy_wcs/util.h |   Michael Droettboom |       1 | 2013-10-04 |
+|                  astropy/wcs/include/astropy_wcs/wcslib_tabprm_wrap.h |   Michael Droettboom |       1 | 2013-10-04 |
+|                   astropy/wcs/include/astropy_wcs/wcslib_units_wrap.h |   Michael Droettboom |       1 | 2013-10-04 |
+|                         astropy/wcs/include/astropy_wcs/wcslib_wrap.h |   Michael Droettboom |       1 | 2013-10-04 |
+|                  astropy/wcs/include/astropy_wcs/wcslib_wtbarr_wrap.h |   Michael Droettboom |       1 | 2013-10-04 |
+|                                 astropy/wcs/include/astropy_wcs_api.h |   Michael Droettboom |       3 | 2013-10-04 |
+|                                     astropy/wcs/src/astropy_wcs_api.c |   Michael Droettboom |       2 | 2013-10-04 |
+|                                                astropy/wcs/src/util.c |   Michael Droettboom |       3 | 2013-10-04 |
+|                                  astropy/wcs/src/wcslib_tabprm_wrap.c |   Michael Droettboom |       6 | 2013-10-04 |
+|                               astropy/io/fits/src/compressionmodule.h |         Erik M. Bray |       4 | 2013-11-14 |
+|                                 astropy/vo/samp/tests/test_helpers.py |    Thomas Robitaille |       3 | 2014-01-31 |
+|                                            astropy/io/misc/connect.py |    Thomas Robitaille |       4 | 2014-02-05 |
+|                     astropy/wcs/include/astropy_wcs/astropy_wcs_api.h |   Michael Droettboom |       3 | 2014-05-09 |
+|                             astropy/wcs/tests/extension/wcsapi_test.c |   Michael Droettboom |       1 | 2014-05-09 |
+|                                       astropy/modeling/tests/utils.py |   Michael Droettboom |       1 | 2014-07-03 |
+|                                              astropy/utils/codegen.py |         Erik M. Bray |       2 | 2014-08-19 |
+|                                      astropy/utils/compat/funcsigs.py |       Stuart Mumford |       1 | 2014-11-26 |
+|                                    astropy/coordinates/tests/utils.py |        Erik Tollerud |       2 | 2014-12-19 |
+|                                         astropy/nddata/mixins/ndio.py |    Thomas Robitaille |       1 | 2014-12-24 |
+|                                            astropy/wcs/src/pipeline.c |   Michael Droettboom |       5 | 2015-04-06 |
+|                          astropy/wcs/include/astropy_wcs/distortion.h |   Michael Droettboom |       2 | 2015-04-16 |
+|                            astropy/wcs/include/astropy_wcs/pipeline.h |   Michael Droettboom |       2 | 2015-04-16 |
+|                                   astropy/io/fits/scripts/fitsinfo.py |        Larry Bradley |       4 | 2015-04-20 |
+|                                      astropy/wcs/src/str_list_proxy.c |   Michael Droettboom |       6 | 2015-07-15 |
+|                                     astropy/wcs/src/unit_list_proxy.c |   Michael Droettboom |       6 | 2015-07-15 |
+|                                         astropy/extern/ply/ctokens.py |   Michael Droettboom |       2 | 2015-07-23 |
+|                               astropy/cosmology/scalar_inv_efuncs.pyx |     Alexander Conley |       2 | 2015-09-10 |
+|                                      astropy/table/_column_mixins.pyx |         Erik M. Bray |       5 | 2015-10-12 |
+|                          astropy/tests/tests/test_quantity_helpers.py |    Thomas Robitaille |       3 | 2016-01-14 |
+|                                   astropy/nddata/nddata_withmixins.py |      Michael Seifert |       3 | 2016-04-26 |
+|                    astropy/coordinates/tests/test_atc_replacements.py |    Stuart Littlefair |       1 | 2016-05-24 |
+|                               astropy/coordinates/orbital_elements.py |    Stuart Littlefair |       4 | 2016-06-03 |
+|                       astropy/units/function/magnitude_zero_points.py |  Marten van Kerkwijk |       2 | 2016-06-20 |
+|                         astropy/utils/compat/numpy/core/multiarray.py |  Marten van Kerkwijk |       2 | 2016-06-27 |
+|                    astropy/coordinates/tests/test_matrix_utilities.py |  Marten van Kerkwijk |       1 | 2016-07-22 |
+|                                       astropy/units/function/mixin.py |  Marten van Kerkwijk |       2 | 2016-10-17 |
+|        astropy/visualization/wcsaxes/tests/test_coordinate_helpers.py |    Thomas Robitaille |       1 | 2016-11-23 |
+|                     astropy/visualization/wcsaxes/tests/test_utils.py |    Thomas Robitaille |       2 | 2016-11-23 |
+|                                          astropy/tests/image_tests.py |    Thomas Robitaille |       1 | 2016-11-25 |
+|                           astropy/visualization/wcsaxes/axislabels.py |    Thomas Robitaille |       3 | 2016-11-29 |
+|                   astropy/visualization/wcsaxes/coordinate_helpers.py |    Thomas Robitaille |       6 | 2016-11-29 |
+|                     astropy/visualization/wcsaxes/coordinate_range.py |    Thomas Robitaille |       4 | 2016-11-29 |
+|                      astropy/visualization/wcsaxes/coordinates_map.py |    Thomas Robitaille |       3 | 2016-11-29 |
+|                           astropy/visualization/wcsaxes/grid_paths.py |    Thomas Robitaille |       3 | 2016-11-29 |
+| astropy/visualization/wcsaxes/tests/test_display_world_coordinates.py |    Thomas Robitaille |       3 | 2016-11-29 |
+|                astropy/visualization/wcsaxes/tests/test_transforms.py |    Thomas Robitaille |       3 | 2016-11-29 |
+|                                astropy/visualization/wcsaxes/utils.py |    Thomas Robitaille |       3 | 2016-11-29 |
+|                              astropy/visualization/wcsaxes/patches.py |    Thomas Robitaille |       6 | 2016-12-02 |
+|                     astropy/visualization/wcsaxes/tests/test_frame.py |    Thomas Robitaille |      10 | 2017-01-13 |
+|      astropy/visualization/wcsaxes/tests/test_transform_coord_meta.py |    Thomas Robitaille |       5 | 2017-01-13 |
+|                                astropy/visualization/wcsaxes/frame.py |    Thomas Robitaille |       4 | 2017-02-09 |
+|                                astropy/visualization/wcsaxes/ticks.py |    Thomas Robitaille |       4 | 2017-02-09 |
+|                           astropy/visualization/wcsaxes/transforms.py |    Thomas Robitaille |       4 | 2017-02-10 |
+|                                astropy/io/fits/tests/test_fitsdiff.py | Michele Mastropietro |       4 | 2017-02-16 |
+|                             astropy/utils/xml/tests/test_iterparse.py |          Paul Sladen |       1 | 2017-03-21 |
+|                                astropy/units/tests/test_deprecated.py |         Pey Lian Lim |       1 | 2017-03-23 |
+|                                       astropy/vo/client/exceptions.py |         Pey Lian Lim |       2 | 2017-03-23 |
+|                                    astropy/vo/validator/exceptions.py |         Pey Lian Lim |       2 | 2017-03-23 |
+|                                           astropy/units/deprecated.py |         Pey Lian Lim |       2 | 2017-03-27 |
+|                  astropy/coordinates/tests/test_shape_manipulation.py |  Marten van Kerkwijk |       4 | 2017-05-04 |
+|                                             astropy/stats/biweight.py |        Larry Bradley |       7 | 2017-05-09 |
+|                                  astropy/stats/tests/test_biweight.py |        Larry Bradley |       5 | 2017-05-10 |
+|                    astropy/visualization/wcsaxes/tests/test_images.py |    Thomas Robitaille |      12 | 2017-05-12 |
+|                           astropy/visualization/wcsaxes/ticklabels.py |    Thomas Robitaille |       4 | 2017-05-12 |
+|                    astropy/visualization/wcsaxes/formatter_locator.py |    Thomas Robitaille |       6 | 2017-05-19 |
+|                      astropy/visualization/wcsaxes/tests/test_misc.py |    Thomas Robitaille |       6 | 2017-05-19 |

@@ -1,0 +1,7 @@
+|                                     filename |     author | commits |  last date |
+|     lib/sqlalchemy/testing/replay_fixture.py | Mike Bayer |       2 | 2014-08-30 |
+|   lib/sqlalchemy/testing/plugin/bootstrap.py | Mike Bayer |       1 | 2014-09-14 |
+| lib/sqlalchemy/testing/suite/test_dialect.py | Mike Bayer |       3 | 2016-07-04 |
+|  lib/sqlalchemy/dialects/mysql/enumerated.py | Mike Bayer |       6 | 2017-01-04 |
+|        lib/sqlalchemy/dialects/mysql/json.py | Mike Bayer |       5 | 2017-01-04 |
+|       lib/sqlalchemy/dialects/mysql/types.py | Mike Bayer |       3 | 2017-01-04 |

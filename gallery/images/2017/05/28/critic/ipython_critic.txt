@@ -1,0 +1,17 @@
+|                                                  filename |              author | commits |  last date |
+|                           IPython/testing/plugin/setup.py |      Fernando Perez |       1 | 2008-07-06 |
+|                           IPython/core/tests/simpleerr.py |      Fernando Perez |       1 | 2010-01-12 |
+| IPython/external/decorators/_numpy_testing_noseclasses.py |         Paul Ivanov |       1 | 2011-04-03 |
+|                              IPython/lib/inputhookgtk3.py |      Thomi Richards |       1 | 2012-04-13 |
+|                                  IPython/utils/version.py |               MinRK |       3 | 2013-01-27 |
+|                           IPython/core/tests/nonascii2.py |      Thomas Kluyver |       1 | 2013-06-29 |
+|                                       IPython/utils/tz.py |               MinRK |       1 | 2013-07-03 |
+|                               IPython/testing/__main__.py |               MinRK |       1 | 2013-10-29 |
+|                      IPython/sphinxext/custom_doctests.py |            chebee7i |       4 | 2013-12-18 |
+|                    IPython/utils/tests/test_decorators.py |      Thomas Kluyver |       1 | 2014-02-27 |
+|                       IPython/utils/tests/test_sysinfo.py | Matthias Bussonnier |       1 | 2014-09-28 |
+|                                 IPython/utils/sentinel.py |              Min RK |       1 | 2015-04-02 |
+|       IPython/core/tests/daft_extension/daft_extension.py | Matthias Bussonnier |       1 | 2015-11-11 |
+|                    IPython/terminal/pt_inputhooks/gtk3.py |      Thomas Kluyver |       1 | 2016-01-16 |
+|                          IPython/lib/tests/test_lexers.py |              Min RK |       4 | 2016-02-01 |
+|                             IPython/core/tests/bad_all.py |      Thomas Kluyver |       1 | 2016-06-30 |
