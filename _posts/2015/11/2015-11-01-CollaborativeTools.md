@@ -208,3 +208,15 @@ I will add them in here. ([Pull requests welcome](https://github.com/dpshelio/dp
 
 mybinder.org as to share notebooks.
    -->
+jabber accounts: https://xmpp.net/directory.php
+https://github.com/Docollab/free-scientific-research-web-services
+https://en.wikipedia.org/wiki/List_of_ELN_software_packages
+also link for pages: http://alternativeto.net/software/speaker-deck/
+speaker notes sharing: 
+http://slidedeck.io/
+http://slideonline.com/
+speakerdeck
+ethics of the tools/problems
+zoom.us webconferencing
+zapier.com connecting apps (automated tasks)
+http://remotemeetup.com/
