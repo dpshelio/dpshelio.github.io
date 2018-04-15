@@ -134,7 +134,7 @@ The second is to use Travis-ci to generate a dashboard with the translations
 progress for each lesson and each language and to generate the markdown files
 based on the po translated files and push them to the respective repository.
 
-<img height="200px" alt="i18n diagram" src="/gallery/images/2018/04/2018-04-15-i18n_diagram.png">
+<img height="400px" alt="i18n diagram" src="/gallery/images/2018/04/2018-04-15-i18n_diagram.png">
 
 Each box represents a repository and the arrows are the connections as submodules
 between them. Travis would be in charge of making a dashboard and create and update
