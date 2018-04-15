@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Software taught on physics"
-date: 2015-04-15
+date: 2018-04-15
 time: "21:45:00"
 blog: "true"
 categories: ["SwC", "community", "software", "teaching", "astronomy", "tools"]
