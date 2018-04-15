@@ -1,8 +1,8 @@
 ---
 layout: post
-title: A sustainable way to translate The Carpentries lessons
+title: "A sustainable way to translate The Carpentries lessons"
 date: 2018-04-15
-time:"19:23:00"
+time: "19:23:00"
 blog: "true"
 categories: ["SwC", "translations", "hackday"]
 ---
