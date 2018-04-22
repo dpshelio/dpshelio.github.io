@@ -186,3 +186,9 @@ people code and getting suggestions and help on how to make your contributions
 better.
 
 
+### Raw data and code
+
+The raw data from the survey is available in figshare with
+DOI:[10.6084/m9.figshare.6169415.v1](https://doi.org/10.6084/m9.figshare.6169415.v1).
+The code as there's nothing novel about it I'm sharing it as a
+[gist on github](https://gist.github.com/dpshelio/50726b0096084407bb3437a68858b8d9).
