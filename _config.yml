@@ -5,3 +5,4 @@ permalink: /blog/:year/:month/:day/:title.html
 gems:
 - jekyll-mentions
 - rouge
+- jekyll-feed
