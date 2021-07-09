@@ -152,7 +152,7 @@ academic year starts so the students could get the most optimal setup with a
 less confusing set of instructions.
 
 
-[teaching-obs]: {% post_url 2021-05-02-teaching-with-obs.md  %}
+[teaching-obs]: {% post_url /2021/05/02/2021-05-02-teaching-with-obs  %}
 [zoom-docs-sharing]: https://support.zoom.us/hc/en-us/sections/201740106-Screen-Sharing
 [zoom-docs-dual]: https://support.zoom.us/hc/en-us/articles/201362583-Using-Dual-Monitors-with-the-Zoom-Desktop-Client
 [fake-screen-win]: https://answers.microsoft.com/en-us/windows/forum/all/how-to-enable-a-fake-second-display-in-windows-10/3c02e2ee-cade-4916-be46-390e59ea2a04
