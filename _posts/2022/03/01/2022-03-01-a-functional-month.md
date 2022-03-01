@@ -73,13 +73,13 @@ I've [saved my progress on a repository][ex-repo], and included [a file with
 things I was learning as I was going][ex-learnt]. During this set of exercises
 I've learnt to use the `info` command in emacs (`C-h i`), and how to search in
 the [elisp manual]. Interestingly, I've only read so far the firs four sections,
-up to [lists], and it feels as I have super powers now. I can't even imagine
+up to lists, and it feels as I have super powers now. I can't even imagine
 what I'll be able to do when I read the other 37 other sections!
 
 I've also starting to understand how to read the error messages and it has also
 helped me to debug problems that have appeared on emacs modules during this time.
 
-In summary, [Jens's lecture][lips-intro] helped a lot to get me started,
+In summary, [Jens's lecture][lisp-intro] helped a lot to get me started,
 [exercism] has been a great companion to get me "motivated" and to learn how
 others have solved the same problem (I still need to investigate the mentoring
 program they offer), and though the problems I've solved are labelled as easy,
