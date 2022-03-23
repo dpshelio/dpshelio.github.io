@@ -59,8 +59,7 @@ Let's see how to do it.
 First thing we will do is to create a spreadsheet on one drive. That spreadsheet
 will contain a table with two columns: date and message (as shown in Figure 1). 
 
-![Create a table in excel](/gallery/images/2022/03/2022-03-23-Excel-create-table.png)
-**Figure 1.**
+<img height="200px" src="/gallery/images/2022/03/2022-03-23-Excel-create-table.png" alt="Create a table in excel" /><br><strong>Figure 1.</strong>
 
 To create it as a table, select the columns, go to the insert menu and click on
 table. Be as original as you> want on the messages column. As Excel is not as
@@ -75,13 +74,11 @@ Open [power automate] from the candy-box menu and select the create button as
 shown in the Figure 2. If the tool doesn't appear in that list, click on the
 "All apps" button and search it on the list shown.
 
-![Power automate page with the create button highlighted](/gallery/images/2022/03/2022-03-23-power-automate-create.png)
-**Figure 2.** 
+<img height="200px" src="/gallery/images/2022/03/2022-03-23-power-automate-create.png" alt="Power automate page with the create button highlighted" /><br><strong>Figure 2.</strong>
 
 We are going to start from a blank automated cloud flow (Figure 3).
 
-![power automate page showing the button of the automate cloud flow](/gallery/images/2022/03/2022-03-23-power-automate-cloud-flow.png)
-**Figure 3.**
+<img height="200px" src="/gallery/images/2022/03/2022-03-23-power-automate-cloud-flow.png" alt="power automate page showing the button of the automate cloud flow" /><br><strong>Figure 3.</strong>
 
 Then we have to provide a name to our flow and its trigger. The name is only
 important for us to differentiate this from other flows we may create. Let's
@@ -90,8 +87,7 @@ in this case it's the arrival of a new email. Type "email arrives" and the list
 will be filtered. We want to choose "When a new email arrives (V3)" as shown in
 the Figure 4.
 
-![Power automate trigger selection - highlights the "When a new email arrives (V3)" trigger](/gallery/images/2022/03/2022-03-23-power-automate-choose-trigger.png)
-**Figure 4.**
+<img height="200px" src="/gallery/images/2022/03/2022-03-23-power-automate-choose-trigger.png" alt="Power automate trigger selection - highlights the “When a new email arrives (V3)” trigger" /><br><strong>Figure 4.</strong>
 
 We click create and we have the start of our flow created.
 
@@ -100,8 +96,7 @@ some other options to filter such as the sender, to who was sent (e.g., if you
 want to only reply the ones that included you - or any other address - in the
 To or CC field, etc.). For now, we will only leave it as it comes by default.
 
-![](/gallery/images/2022/03/2022-03-23-power-automate-email-settings.png)
-**Figure 5.**
+<img height="200px" src="/gallery/images/2022/03/2022-03-23-power-automate-email-settings.png" /><br><strong>Figure 5.</strong>
 
 And click at the bottom to create a new step.
 
@@ -110,15 +105,13 @@ spreadsheet we created before.
 
 Choose Excel Online (Business) from the menu shown. Then in the following menu choose: "Get a row". 
 
-![](/gallery/images/2022/03/2022-03-23-power-automate-select-excel.png)
-![](/gallery/images/2022/03/2022-03-23-power-automate-select-row.png)
+<img height="200px" src="/gallery/images/2022/03/2022-03-23-power-automate-select-excel.png" /> <img height="200px" src="/gallery/images/2022/03/2022-03-23-power-automate-select-row.png" />
 
 In the "Get a row" dialogue, fill the parameters from the drop-down menus (the
 file name, the table, ...). As shown in the figure. The "key value" field
 doesn't come from a drop down, we need to write an expression down.
 
-![](/gallery/images/2022/03/2022-03-23-power-automate-select-row-filled.png)
-![](/gallery/images/2022/03/2022-03-23-power-automate-expression.png)
+<img height="200px" src="/gallery/images/2022/03/2022-03-23-power-automate-select-row-filled.png" /> <img height="200px" src="/gallery/images/2022/03/2022-03-23-power-automate-expression.png" />
 
 The expression to write is the following:
 
@@ -135,8 +128,7 @@ back to the sender.
 Let's now create a new step. Here we choose "office 365 Outlook", and "Send an
 email (V2)" as an action.
 
-![](/gallery/images/2022/03/2022-03-23-power-automate-select-email.png)
-![](/gallery/images/2022/03/2022-03-23-power-automate-select-send-email.png)
+<img height="200px" src="/gallery/images/2022/03/2022-03-23-power-automate-select-email.png" /> <img height="200px" src="/gallery/images/2022/03/2022-03-23-power-automate-select-send-email.png" />
 
 In the send-email dialogue we need to add "dynamic content". There we can choose
 "From" field from the step below for the "To" field (i.e., send an email to sent
@@ -147,17 +139,15 @@ Finally, for the body, we will select the message column from the row we
 extracted in the step below. We can also add any other text in that box that
 will be common to all the days.
 
-![](/gallery/images/2022/03/2022-03-23-power-automate-email-fill.png)
-![](/gallery/images/2022/03/2022-03-23-power-automate-email-fill-to.png)
-![](/gallery/images/2022/03/2022-03-23-power-automate-email-filled.png)
+<img height="200px" src="/gallery/images/2022/03/2022-03-23-power-automate-email-fill.png" /> <img height="200px" src="/gallery/images/2022/03/2022-03-23-power-automate-email-fill-to.png" /> <img height="200px" src="/gallery/images/2022/03/2022-03-23-power-automate-email-filled.png" />
 
 And that's all! Click save, go back clicking the back arrow in the workflow top-bar (as shown below), 
 
-![](/gallery/images/2022/03/2022-03-23-power-automate-whole-workflow.png)
+<img height="200px" src="/gallery/images/2022/03/2022-03-23-power-automate-whole-workflow.png" />
 
 Make sure you turn it ON
 
-![](/gallery/images/2022/03/2022-03-23-power-automate-flow-on.png)
+<img height="200px" src="/gallery/images/2022/03/2022-03-23-power-automate-flow-on.png" />
 
 
 And your email will be sending back emails to everyone who is writing to you.
@@ -165,7 +155,13 @@ And your email will be sending back emails to everyone who is writing to you.
 To test it, we send ourselves and email and wait for the response. You can also
 see whether the flow is working or failing at the bottom of the page.
 
-![](/gallery/images/2022/03/2022-03-23-power-automate-flow-results.png)
+<img height="200px" src="/gallery/images/2022/03/2022-03-23-power-automate-flow-results.png" />
+
+Now that we've done this... how do you think we could only send replies to the
+people in our university? For that we would need to create an intermediate step
+that creates a condition and checks whether the email ends by our university
+domain. If does so, then we proceed send the email, otherwise, send another
+general email.
 
 
 [power automate]: https://emea.flow.microsoft.com/en-us/
