@@ -163,5 +163,7 @@ that creates a condition and checks whether the email ends by our university
 domain. If does so, then we proceed send the email, otherwise, send another
 general email.
 
+**Update:** Check the [next post to see how to include that condition][OoO-2].
 
 [power automate]: https://emea.flow.microsoft.com/en-us/
+[OoO-2]: {% post_url /2022/03/23/2022-03-24-out-of-office-2 %}
