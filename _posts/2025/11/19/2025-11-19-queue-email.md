@@ -268,7 +268,9 @@ above first):
 
 Any improvements you can think of is highly appreciated! Tell me on
 [mastodon][mastodon-comment] or through an [issue on
-GitHub][gh-comment]
+GitHub][gh-comment].
+
+Thanks to the [Emacs London meetup][emacs-ldn], in particular to Przemek and Eric.
 
 
 [mu4e]: https://djcbsoftware.nl/code/mu/mu4e/index.html
@@ -282,7 +284,7 @@ GitHub][gh-comment]
 [msmtpqueue]: https://github.com/marlam/msmtp/tree/master/scripts/msmtpqueue
 [msmtpq]: https://github.com/marlam/msmtp/tree/master/scripts/msmtpq
 [o2ms]: https://github.com/harishkrupo/oauth2ms
-[emacs-ldn]: https://www.meetup.com/london-emacs-hacking/events/311781816/
+[emacs-ldn]: https://emacs.london/
 [msmptp#211]: https://github.com/marlam/msmtp/pull/211
 [gh-comment]: https://github.com/dpshelio/dpshelio.github.io/issues/new
 [mastodon-comment]: https://mastodon.green/@dvdgc13/115578263537884476
