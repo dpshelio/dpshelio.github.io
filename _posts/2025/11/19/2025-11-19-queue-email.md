@@ -4,7 +4,7 @@ title: "Queuing email on emacs using mu and msmtp"
 date: 2025-11-19
 time: "16:45:00"
 blog: "true"
-categories: ["email", "emacs", "learning"]
+categories: ["email","emacs","learning"]
 ---
 
 *TL;DR: [jump to the end](#all-together) to see all together if you don't care about my learning process*
