@@ -33,7 +33,7 @@ This is all easy and good... however, the platform at our university doesn't pro
 
 Once you access portico, get to your module list with the pictures of your students, then when you try to download them using downthemall you discover that the images contain no file names, and what's worse, the title and description tags say something like "This student has no photograph" 😓.
 
-<img height="200px" src="/gallery/images/2026/04/2026-05-14-portico-dta.png" alt="screenshot of downthemall window showing the media tab and a large list of files available to download. Each line contains a link, a title and a description. The Links have been blurred, but the titles and descriptions all say 'This student has no photograph'."/>
+<img height="200px" src="/gallery/images/2026/04/2026-04-14-portico-dta.png" alt="screenshot of downthemall window showing the media tab and a large list of files available to download. Each line contains a link, a title and a description. The Links have been blurred, but the titles and descriptions all say 'This student has no photograph'."/>
 
 We can't change the file names directly, therefore we need to change the title or the description, which thankfully downthemall can use them as mask to save the files when downloaded (as shown in the bottom of the above image where it's asking to save them using the `title` of each image).
 
@@ -80,7 +80,7 @@ we can see that the `children` values of the `sv-panel-body` are 4, the `<img>`,
 Once activated the greasemonkey script and loading the page, when we open Downthemall we see that the `title` column (and the `description`) contains the names of the students as we wanted:
 
 
-<img height="200px" src="/gallery/images/2026/04/2026-04-14-portico-sample.png" alt="screenshot of downthemall window showing the media tab and a large list of files available to download. Each line contains a link, a title and a description. The Links have been blurred. The titles and descriptions now all say different names."/>
+<img height="200px" src="/gallery/images/2026/04/2026-04-14-portico-dta-after-gm.png" alt="screenshot of downthemall window showing the media tab and a large list of files available to download. Each line contains a link, a title and a description. The Links have been blurred. The titles and descriptions now all say different names."/>
 
 Once you've downloaded the images, you can import them with Anki's Media Import 2 and produce flashcards with the student photo and their name. You can create them as double cards if you want to be prompted with the photo and the name and you have to guess the other.
 
