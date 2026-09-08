@@ -204,3 +204,31 @@ blockquote {
   padding-left: 15px;
   border-left: 3px solid #ccc;
 }
+
+/* From https://noblogs.org/  */
+div#page::before {
+	z-index: 9999;
+	position: absolute;
+	content: 'free Palestine';
+	font-family: Helvetica;
+	font-weight: bolder;
+	font-size: 1em;
+	width: 200px;
+	text-align: center;
+	line-height: 50px;
+	letter-spacing: 1px;
+	color: red;
+	transform: rotate(-45deg);
+	-webkit-transform: rotate(-45deg);
+	position: fixed;
+	box-shadow: 0 0 10px rgba(0,0,0,.3);
+	top: 20px;
+	right: -50px;
+	transform: rotate(45deg);
+	-webkit-transform: rotate(45deg);
+	background: #FFF;
+	z-index: 9999;
+	border-top: 6px solid black;
+   border-bottom: 6px solid green;
+}
+		
